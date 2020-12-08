@@ -1,1 +1,0 @@
-cmd_/home/bawadywa/AK-6/hello1.ko := ccache arm-eabi-ld -r  -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/bawadywa/AK-6/hello1.ko /home/bawadywa/AK-6/hello1.o /home/bawadywa/AK-6/hello1.mod.o ;  true
